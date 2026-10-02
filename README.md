@@ -1,0 +1,2 @@
+# premium-char-clamp-001-earth-clamp-construction-guide
+Building earth clamps without a repeatable process wastes materials, time, and risks structural failure. The Earth Clamp Construction Guide Template solves this by centralizing every step of traditional charcoal-burning kiln construction in one organized Notion workspace.  This template eliminates guesswork from earth clamp construction by providin
